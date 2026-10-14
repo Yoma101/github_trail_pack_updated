@@ -1,0 +1,4 @@
+Project notes
+- Check formatting before release.
+- TODO: update the screenshot.
+- Internal marker for the training exercise: FLAG{LEAF7}

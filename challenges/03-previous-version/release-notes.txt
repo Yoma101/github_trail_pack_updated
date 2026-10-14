@@ -1,0 +1,3 @@
+﻿Release notes
+- Initial documentation draft.
+- Archived QA marker: FLAG{OLDTRACE}
